@@ -14,7 +14,7 @@ export default function App() {
             <Routes>
               <Route path="/" element={<Contact />} />
               <Route path="/join" element={<JoinUs />} />
-              {/* you can add placeholder routes for /about /events /team if you want */}
+              
             </Routes>
           </main>
         </div>
