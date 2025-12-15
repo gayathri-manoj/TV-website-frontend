@@ -1,6 +1,6 @@
 import React from "react";
 
-const FORM_URL = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true"; // <-- replace with your actual embed URL
+const FORM_URL = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true"; 
 
 export default function JoinUs() {
   return (
